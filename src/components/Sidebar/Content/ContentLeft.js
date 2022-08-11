@@ -42,7 +42,7 @@ function ContentLeft() {
         />
       </div> */}
       <div className="flex flex-row space-x-4">
-        <img src="" alt="" className="flex flex-row space-x-4" />
+        {/* <img src="" alt="" className="flex flex-row space-x-4" /> */}
         <img src={Board} alt="dashboard" className="" />
       </div>
     </section>
