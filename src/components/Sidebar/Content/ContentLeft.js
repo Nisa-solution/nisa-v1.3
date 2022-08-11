@@ -12,7 +12,7 @@ function ContentLeft() {
 
       <h3 className="text-xl text-green-700 my-8">Good day, Marcellous</h3>
 
-      <div className="flex flex-row space-x-4">
+      {/* <div className="flex flex-row space-x-4">
         <Card
           bgColor={"bg-green-600"}
           txtColor={"text-green-600"}
@@ -40,7 +40,7 @@ function ContentLeft() {
           icon={<BiCreditCard size={25} />}
           label={<span>Swap</span>}
         />
-      </div>
+      </div> */}
       <div className="flex flex-row space-x-4">
         <img src="" alt="" className="flex flex-row space-x-4" />
         <img src={Board} alt="dashboard" className="" />
