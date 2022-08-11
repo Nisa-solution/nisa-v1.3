@@ -1,6 +1,6 @@
 import React from "react";
 import { BiCreditCard, BiSearch } from "react-icons/bi";
-import Board from "../../../images/board.png";
+import Board from "../../../images/board1.png";
 
 function ContentLeft() {
   return (
@@ -10,7 +10,7 @@ function ContentLeft() {
         <input type={"text"} className="flex-1" placeholder="Search" />
       </div>
 
-      <h3 className="text-xl text-green-700 my-8">Good day, Marcellous</h3>
+      <h3 className="text-xl text-green-700 my-8">Good day, Marcellus</h3>
 
       {/* <div className="flex flex-row space-x-4">
         <Card
